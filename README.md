@@ -1,2 +1,1 @@
-# precoursehenry
-es un repositorio del modulo numero 2 precourse de henry
+este proyecto es una prueba de repositorio y clonarlo desde github a mi computadora.
